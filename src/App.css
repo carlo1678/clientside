@@ -1,3 +1,14 @@
+.navbar-primary {
+  display: flex !important;
+  justify-content: center !important;
+  margin-right: 500px;
+}
+
+.mainNav {
+  display: flex !important;
+  justify-content: center !important;
+}
+
 .App {
   text-align: center;
 }
